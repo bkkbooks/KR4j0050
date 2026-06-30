@@ -1,0 +1,46 @@
+canonical_identifier: bkk:krp/KR4j0050/WYG/v1
+canonical_location: https://kanripo.org/bkk/KR4j0050/WYG/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 龍洲詞
+  date: '2015-08-25 00:48:36.496519'
+  source:
+    repository: kanripo
+    path: KR4j0050
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR4j0050_000-WYG.yaml, hash: 'sha256:071b8d4df498319e2d540c4d6ccbba5ef7d4a3d71fbdd289fab52455f2eb639e'}
+  - {seq: 1, filename: KR4j0050_001-WYG.yaml, hash: 'sha256:2f2b7d47cad27679c90c744f281a5d2704587d93211b42d8321a4643e0394cba'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR4j0050_000-WYG.markers.yaml, hash: 'sha256:a86d0ee976014a06ba9f119dc2eb052ae75c63f35f0f417cc03c1520ab5d8c60'}
+  - {seq: 1, role: markers, filename: assets/KR4j0050_001-WYG.markers.yaml, hash: 'sha256:452241f4cedcf70683fb8158a29fa0884ecf3357fc130f3e1e6aa6c85124c14d'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR4j0050_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 502
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR4j0050_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 5008
+  label: 龍洲詞
+  type: section
+  level: 1
+hash: sha256:e8205f5ecb08d0603330a1a6f9ea069a7f7e9ee2f9788d1537d1412e983f5c28
