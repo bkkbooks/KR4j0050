@@ -20,11 +20,11 @@ editions:
   label: 【四庫全書・文淵閣】
 assets:
   parts:
-  - {seq: 0, filename: KR4j0050_000.yaml, hash: 'sha256:ce1b7a2d93d32192f276b7a35baa76ecf988e8a06f0b38ef224161da7a53e340'}
-  - {seq: 1, filename: KR4j0050_001.yaml, hash: 'sha256:9c149e48a9a6668836bb3014a138ce626970975c5c25465897dd096af555c65a'}
+  - {seq: 0, filename: KR4j0050_000.yaml, hash: 'sha256:e7f0764e01494040c6dc31f0f8f8bac6ace596f488ac7cb89878b9fe0a943c1b'}
+  - {seq: 1, filename: KR4j0050_001.yaml, hash: 'sha256:1a0cbf1cc0d24635f1ecc8eac137e0cdf1269d294bcea26375dea9dcd994e1eb'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR4j0050_000.markers.yaml, hash: 'sha256:d138218e7aa7d88e36e67d9a78323362369a37586c5138207a4bc4532fd1515e'}
-  - {seq: 1, role: markers, filename: assets/KR4j0050_001.markers.yaml, hash: 'sha256:9a4c6fbea5b3103681dbdcc9aa10ca5a25383ad4d88f62c756ecdd4370417b90'}
+  - {seq: 0, role: markers, filename: assets/KR4j0050_000.markers.yaml, hash: 'sha256:8f561ee514765369f8f8159283a513e31062273d351175c97aa7f7a0b65b5995'}
+  - {seq: 1, role: markers, filename: assets/KR4j0050_001.markers.yaml, hash: 'sha256:797d7bf171d217398d58e2aaab060402a69b5e55363f8e6e97723612287c41cc'}
 table_of_contents:
 - ref:
     seq: 0
@@ -46,7 +46,4 @@ table_of_contents:
   label: 龍洲詞
   type: section
   level: 1
-hash: sha256:f274c775e176fdfc33f1dcc39e304680791d030a6f7a86ba0d9912484a85333f
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:7c651b2ee371b7f9dbcaedf6ac237dac7d1d6ac4ac565146f16715efb6ec1104
