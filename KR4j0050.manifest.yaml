@@ -23,8 +23,8 @@ assets:
   - {seq: 0, filename: KR4j0050_000.yaml, hash: 'sha256:42294001c837cc5bd5d3504bdc6c4a67b90c2487de07ee8d6870a63603d4dbfa'}
   - {seq: 1, filename: KR4j0050_001.yaml, hash: 'sha256:cc72a0811f52c6d0fcf3545951b3d20d4f0ba6f24d4149752007e3e73a7b5575'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR4j0050_000.markers.yaml, hash: 'sha256:7f9d867171ec15640db94e851bf2de5f0cd8719e91c1440cfa19ead33a34c544'}
-  - {seq: 1, role: markers, filename: assets/KR4j0050_001.markers.yaml, hash: 'sha256:20d08292f1a6d9666faf5581d93370ea4d21baabd9d7cb6470e6da9d33fbfbe4'}
+  - {seq: 0, role: markers, filename: assets/KR4j0050_000.markers.yaml, hash: 'sha256:dd454069af69ed214ce423989b89a9d5e6b023fc78f31ae3658346f2f75f7d17'}
+  - {seq: 1, role: markers, filename: assets/KR4j0050_001.markers.yaml, hash: 'sha256:2ead82e6150cf82b2ee817bf7076ab2a60258c92c9b19df1ae032e7a6730a989'}
 table_of_contents:
 - ref:
     seq: 0
@@ -46,7 +46,7 @@ table_of_contents:
   label: 龍洲詞
   type: section
   level: 1
-hash: sha256:303b0905d16cfaa7d28eaf85c00d361180b904ec8fafe2a81ffb93ca35a8c3b6
+hash: sha256:4859efed32b165b7cc7cc01ff95adf506bc9bf4bda79c7a0a16a9d6d25cbb668
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
